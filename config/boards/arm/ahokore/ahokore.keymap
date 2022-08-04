@@ -172,7 +172,7 @@ behaviors {
    &kp ESC &none  &none       &none       &none      &none        &none        &none     &none     &none 
    &kp TAB &none  &none       &none       &none      &none        &kp HOME     &kp PG_DN &kp PG_UP &kp END 
    &none   &reset &kp K_CMENU &bootloader &bt BT_CLR &bt BT_SEL 0 &bt BT_SEL 1 &none     &none     &kp FSLH
-				 &none &trans &tog QWERTY &tog QWERTY  &trans  &none
+				 &none &trans &tog WARFRAME &tog QWERTY  &trans  &none
                         >;
                 };
 		
